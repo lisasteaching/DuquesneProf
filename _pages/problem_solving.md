@@ -13,4 +13,4 @@ The book for this course was <i>Crossing the River with Dogs: Problem Solving fo
 * Group work on new content with Q&A
 
 ### Course Files
-<a href="" target="_blank">Quizzes: Student Solutions</a>
+<a href="https://lisasteaching.github.io/portfolio_teaching/problem_solving/Quiz.pdf" target="_blank">Quizzes: Student Solutions</a>
