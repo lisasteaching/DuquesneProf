@@ -38,7 +38,7 @@ navigation:
   url: business_statistics/
   internal: true
 - text: Fundamentals of Statistics
-  url: fundamental_stats/
+  url: fundamentals_stats/
   internal: true
 - text: Problem Solving
   url: problem_solving/
