@@ -13,10 +13,10 @@ It is not practical to use this lesson to illustrate the Central Limit Theorem b
 
 ### Lesson Files
 
-<a href="https://lisasteaching.github.io/portfolio_teaching/fundamentals_stats/SamplingDistribution_Activity.pdf" target="_blank">Activity Worksheet</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/fundamentals_stats/SamplingDistribution_LessonPlan.pdf" target="_blank">LessonPlan</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/fundamentals_stats/SamplingDistributions.pptx" target="_blank">Sampling Distributions Power Point</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/fundamentals_stats/SamplingDistribution_histogram-243-samples.pdf" target="_blank">Sample Histogram</a>
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/SamplingDistribution_Activity.pdf" target="_blank">Activity Worksheet</a><br/>
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/SamplingDistribution_LessonPlan.pdf" target="_blank">LessonPlan</a><br/>
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/SamplingDistributions.pptx" target="_blank">Sampling Distributions Power Point</a><br/>
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/SamplingDistribution_histogram-243-samples.pdf" target="_blank">Sample Histogram</a>
 
 # Research Project
 
@@ -37,14 +37,14 @@ For the project outlined below, students, individually, conduct research consist
 
 ### Project Files
 
-<a href="https://lisasteaching.github.io/portfolio_teaching/fundamentals_stats/Stats-Project-Instructions.pdf" target="_blank">Project Instructions</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/fundamentals_stats/Stats-Project-Rubric-Spr15.pdf" target="_blank">Stats Project Rubric</a><br/>
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/Stats-Project-Instructions.pdf" target="_blank">Project Instructions</a><br/>
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/Stats-Project-Rubric-Spr15.pdf" target="_blank">Stats Project Rubric</a><br/>
 
 ### Examples of Student Work
 
-<a href="https://lisasteaching.github.io/portfolio_teaching/fundamentals_stats/SATScoresIncome-Spring15.pdf" target="_blank">SAT Scores Income Spring 15</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/fundamentals_stats/NurseAnesthetistsSalary-Spring15.pdf" target="_blank">Nurse Anesthetists Salary Spring 15</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/fundamentals_stats/Lucky7s-Spring15.pdf" target="_blank">Lucky 7s Spring 15</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/fundamentals_stats/NFLRunningBack-Spring15.pdf" target="_blank">NFL Running Back Spring 15</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/fundamentals_stats/HockeyPeriodScores-Spring15.pdf" target="_blank">Hockey Period Scores Spring 15</a><br/>
-<a href="https://lisasteaching.github.io/portfolio_teaching/fundamentals_stats/PenguinWins-Spring15.pdf" target="_blank">Penguin Wins Spring 15</a>
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/SATScoresIncome-Spring15.pdf" target="_blank">SAT Scores Income Spring 15</a><br/>
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/NurseAnesthetistsSalary-Spring15.pdf" target="_blank">Nurse Anesthetists Salary Spring 15</a><br/>
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/Lucky7s-Spring15.pdf" target="_blank">Lucky 7s Spring 15</a><br/>
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/NFLRunningBack-Spring15.pdf" target="_blank">NFL Running Back Spring 15</a><br/>
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/HockeyPeriodScores-Spring15.pdf" target="_blank">Hockey Period Scores Spring 15</a><br/>
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/PenguinWins-Spring15.pdf" target="_blank">Penguin Wins Spring 15</a>
