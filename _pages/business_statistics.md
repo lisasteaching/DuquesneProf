@@ -20,7 +20,7 @@ When I first did this activity, I used only plain M&amp;Ms. If you have enough s
 * Probability - I used this dataset to illustrate relative frequency, probability, and independence. What is the proportion of red M&amp;Ms? That <em>depends</em> on what type of M&amp;M you are talking about.
 
 ### Lesson Files
-<a href="https://lisasteaching.github.io/portfolio_teaching/business_statistics/MMs-Stats-Intro-Lesson.pdf" target="_blank">Lesson Plan</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/business_statistics/MMs-Stats-Pre-Reading-Anticipatory-Set.pdf">Data Terminology with M&amp;Ms</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/business_statistics/MMs-Stats-Terminology-Guided-Notes.pdf">Terminology Guided Notes</a><br />
-<a href="https://lisasteaching.github.io/portfolio_teaching/business_statistics/MMs-Stats-Terminology-Guided-Notes-Key.pdf">Terminology Guided Notes Key</a>
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/business_statistics/MMs-Stats-Intro-Lesson.pdf" target="_blank">Lesson Plan</a><br />
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/business_statistics/MMs-Stats-Pre-Reading-Anticipatory-Set.pdf">Data Terminology with M&amp;Ms</a><br />
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/business_statistics/MMs-Stats-Terminology-Guided-Notes.pdf">Terminology Guided Notes</a><br />
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/business_statistics/MMs-Stats-Terminology-Guided-Notes-Key.pdf">Terminology Guided Notes Key</a>
