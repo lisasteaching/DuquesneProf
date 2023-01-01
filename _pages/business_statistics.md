@@ -3,6 +3,8 @@ layout: page
 title:  "Business Statistics"
 ---
 
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/business_statistics/Syllabus-BusStats-spr2018.pdf" target="_blank">Syllabus</a>
+
 # M&Ms Introduce Students to Statistics
 
 This two-day introductory lesson engages students in the data analysis process and develops their statistical thinking with a data gathering activity, a pre-reading anticipatory set of questions, a reading assignment, and a post-reading lecture with guided notes. Students in my college business statistics course gathered data by weighing packages of M&amp;Ms and counted the number of each color. Students entered the data into an online survey and analyzed the results in a spreadsheet. The applications of this student-collected data included discussions and activities about cleaning data, calculating numerical summaries, creating graphs, calculating probabilities, and determining independence.
