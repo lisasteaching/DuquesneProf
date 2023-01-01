@@ -3,6 +3,8 @@ layout: page
 title:  "Fundamentals of Statistics"
 ---
 
+<a href="https://lisasteaching.github.io/DuquesneProf/portfolio_teaching/fundamentals_stats/Syllabus-MATH-125-Spr2015.pdf" target="_blank">Syllabus</a>
+
 # Create a Sampling Distribution
 
 Each student obtains and calculates the mean for eight different simple random samples of size 4 from a population of exam grades. The class constructs a histogram of sample means to illustrate a sampling distribution. The teacher demonstrates a sampling distribution from the same population using sample size n=2. Students consider the sampling distributions of sample means and the population distribution in light of the purpose of statistics, i.e., to make inferences about the population from sample data.
